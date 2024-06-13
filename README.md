@@ -1,2 +1,2 @@
 # WebrtcDemo
-集成metartc7.0用于嵌入式无界面推流，流媒体服务器是srs的demo
+集成metartc7.0用于嵌入式无界面推流，流媒体服务器是srs的demo,demo是linux x86平台
