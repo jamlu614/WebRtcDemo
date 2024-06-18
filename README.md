@@ -10,6 +10,6 @@
 mkdir build  
 cd build  
 cmake ..  
-cp ../yang_config.ini .  
+cp ../yang_config.ini .(注意不要把.省略)  
 ./rtcApp  
 命令后运行
