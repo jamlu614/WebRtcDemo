@@ -5,4 +5,11 @@
 
 方法一、用vscode打开,编译后把yang_config.ini配置文件放在build目录下即可运行  
 
-方法二、cmake命令编译，在项目根目录下依次执行mkdir build,cd build,cmake ..,cp ../yang_config.ini .命令后即可运行
+方法二、cmake命令编译  
+在项目根目录下依次执行  
+mkdir build  
+cd build  
+cmake ..  
+cp ../yang_config.ini .  
+./rtcApp  
+命令后运行
